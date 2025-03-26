@@ -1,4 +1,5 @@
 # 📊 COVID-19 Exploratory Data Analysis (EDA)
+<![Image](https://github.com/user-attachments/assets/170e9036-abd8-4512-a3e1-01b4f2057860) width="250" height="250">
 <img src="https://github.com/saifee3/covid19-exploratroy-data-analysis/issues/1#issue-2949001600" alt="Custom Icon" width="250" height="250">
 
 ## Introduction to EDA
