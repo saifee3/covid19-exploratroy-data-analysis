@@ -1,0 +1,31 @@
+# .gitignore
+
+# Python specific
+*.pyc
+__pycache__/
+
+# Virtual environments
+.venv/
+env/
+covid19_venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data processing
+data/processed/*
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*~
+*.tmp
+
+# Logs
+logs/
+
+# Cache files
+*.cache
+
