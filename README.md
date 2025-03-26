@@ -1,6 +1,13 @@
 # 📊 COVID-19 Exploratory Data Analysis (EDA)
 <img src="https://github.com/user-attachments/assets/170e9036-abd8-4512-a3e1-01b4f2057860" alt="Custom Icon" width="1050" height="350">
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-1.0%2B-orange?logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.3%2B-blue?logo=matplotlib)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-6.0%2B-orange?logo=jupyter)
+![CSV](https://img.shields.io/badge/CSV-Support-blue)
+![License](https://img.shields.io/badge/License-MIT-red)
+
 ## Introduction to EDA
 Exploratory Data Analysis (EDA) is an approach to analyzing datasets to summarize their main characteristics, often using visual methods. It was promoted by statistician John Tukey in the 1970s as a way to understand data before making assumptions or applying more formal statistical models.
 
